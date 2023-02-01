@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Even - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://zhjbobo.github.io/post/</link>
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://zhjbobo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/post/my-first-post/</link>
+      <link>https://zhjbobo.github.io/post/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <guid>https://zhjbobo.github.io/post/my-first-post/</guid>
       <description>这是我的第一篇博客 自动化测试 这是我的第一篇博客 好好地学习吧 个人网站链接</description>
     </item>
     
